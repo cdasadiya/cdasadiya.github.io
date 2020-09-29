@@ -9079,7 +9079,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000000;
-  padding: 7em 0;
+  padding: 1em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -9087,7 +9087,7 @@ textarea.form-control {
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
     color: #fff;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     font-size: 22px;
     font-weight: 600; }
   .ftco-footer .ftco-footer-widget ul li {
@@ -9115,7 +9115,7 @@ textarea.form-control {
 
 .ftco-footer-social li {
   list-style: none;
-  margin: 0 10px 0 0;
+  margin: 0 2px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
     height: 50px;
@@ -9139,7 +9139,7 @@ textarea.form-control {
 .footer-small-nav > li {
   display: inline-block; }
   .footer-small-nav > li a {
-    margin: 0 10px 10px 0; }
+    margin: 0 4px 4px 0; }
     .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
       color: #3e64ff; }
 
